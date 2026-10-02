@@ -66,9 +66,9 @@
 - **Contacto oficial:** hola@svblime.cl · www.svblime.cl · Instagram @svblime.cl
 
 **Equipo [Certeza]** — tres socios fundadores
-- **Jaime**: creatividad, arte y contenido visual (en Cordillera: rigging y compra de hardware).
-- **Luis**: producción, gestión y ejecución en terreno (en Cordillera: equipo de producción).
-- **Elvis**: iluminación, tecnología e integración visual (en Cordillera: telas/fabricación e infraestructura digital).
+- **Jaime Lagos**: creatividad, arte y contenido visual (en Cordillera: rigging y compra de hardware).
+- **Luis Ulloa**: producción, gestión y ejecución en terreno (en Cordillera: equipo de producción).
+- **Elvis Coloma**: iluminación, tecnología e integración visual (en Cordillera: telas/fabricación e infraestructura digital).
 
 **Colaboradores externos [Certeza]**
 - **Roger Mendoza** (Agencia Tu Primera Opción SpA): facturación, porque SVBLIME aún no puede facturar directamente.
@@ -148,11 +148,30 @@
 
 **Sistema visual de propuestas y web (memoria previa) [Certeza]**
 - Tipografías usadas en propuestas: **Borscha** (titulares), **Hanken Grotesk** (texto), **JetBrains Mono** (eyebrows).
-  - ⚠️ Por confirmar: el brandbook 2026 define **Inter** como tipografía de texto. Falta definir si Hanken Grotesk y JetBrains Mono siguen vigentes en propuestas o se reemplazan por Inter.
+  - ⚠️ Por confirmar: el brandbook 2026 define **Inter** como tipografía de texto, mientras que el design system de Claude Design usa Hanken Grotesk + JetBrains Mono (con licencias aún sin confirmar).
 - Barra de espectro **azul · amarillo · púrpura**; eyebrows tipo "01 · LA IDEA"; pies en columnas.
 - Fondo negro; lienzo de 816 px de ancho centrado (en móvil, ancho completo).
 - Imágenes fotorrealistas, cinematográficas, oscuras, con luz de evento. La imagen siempre pesa más que el texto.
 - Los highlights de Instagram deben mantener la estética de la web.
+
+**Design System de Claude Design [Certeza — fuente: `referencias/marca/SVBLIME_Design_System_Resumen.md`]**
+- Es la referencia técnica completa (tokens, escalas, componentes, logotipo, voz). Ante cualquier pieza digital, leer ese archivo.
+- Idea central: **el escenario**: lienzo negro, luz blanca y tres colores de señal (azul `#4EA9FF` · ámbar `#FFCD59` · violeta `#8F00FF`, con variantes strong y soft).
+- Fondo de escenario `#000000`, fondo de página `#08080A`; textos blanco / `#B4B4BC` / `#74747E`.
+- Tipografía: Borscha SemiBold (display, 128→36 px) · Hanken Grotesk (texto, 16 px / 1.6) · JetBrains Mono (eyebrows 12 px, tracking 0.18em, mayúsculas).
+- Espaciado base 4 px; contenedor 1200/1440 px; radios 4/8/12 px, pill solo en tags; iconos Lucide outline (propuesta, la marca no tiene set propio).
+- Componentes: Button, Badge, Eyebrow, SpectrumBar, Card, PillarCard, QuoteBlock, FounderCard, StatBlock.
+- Logotipo: versiones negativo, positivo, mono negro, mono blanco, original y lockup "fest" (sin documentar).
+- Voz: "Habla como un equipo que ya estuvo en el escenario: claro, seguro, cercano y con criterio." Regla de oro: *"Si una frase podría estar en la web de cualquier agencia, todavía no es una frase de SVBLIME."*
+- Palabras a evitar: magia, único, increíble, disruptivo, 360, wow, full, "premium" sin razón, "solución integral para todo", barato, rápido, "hacemos de todo".
+
+**⚠️ Diferencias entre fuentes, por resolver**
+1. Tipografía de texto: Inter (brandbook) vs. Hanken Grotesk + JetBrains Mono (design system y propuestas).
+2. Negro base: `#141414` (brandbook) vs. `#000000` / `#08080A` (design system). Hueso `#F4F1EA` (brandbook) vs. `#F4F4F2` (design system).
+3. Nombres de color: amarillo/púrpura (brandbook) vs. ámbar/violeta (design system).
+4. "Pilares": la regla de marca la prohíbe, pero el design system tiene un componente `PillarCard` y el Badge habla de "pilar".
+5. "360": el design system la pone en palabras a evitar, pero la arquitectura SEO usa `/servicios/agencia-360` y el keyword "productora 360".
+6. Mensaje clave "No hacemos de todo; hacemos experiencias con propósito." abre con negación (va contra la regla de tono).
 
 **Moodboard [Certeza]**
 - Muestra de dónde tomamos las referencias para lograr el proyecto: trastienda, técnicas y oficio a la escala real del proyecto.
