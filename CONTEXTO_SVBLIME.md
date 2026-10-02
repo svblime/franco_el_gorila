@@ -38,7 +38,7 @@
 - Premium: calidad por sobre escala; la selectividad es una virtud y declinar proyectos desalineados es coherente con la marca.
 
 **Frases de marca aprobadas [Certeza]**
-- Apertura: *"SVBLIME va más allá de las luces, pantallas y la producción. Aquí, las ideas que merecen ser recordadas se hacen realidad."*
+- Apertura: *"SVBLIME va más allá de las luces, pantallas y la producción. Aquí, las ideas que merecen ser recordadas se hacen realidad."* **Versión vigente** (confirmada el 02-10-2026).
 - Frase elegida: *"Transformamos tus ideas en experiencias visuales que inspiran, conectan e impactan, con un único propósito: hacerlas inolvidables."*
 
 **Los 4 servicios [Certeza]** (el cliente puede elegir uno, combinarlos o dejarlo todo en manos de SVBLIME)
@@ -60,7 +60,7 @@
 - **04 · Branding de Eventos**: identidad, mensaje, sistema visual y puntos de contacto, coherentes antes, durante y después. *"El detalle es respeto por el público, por el cliente y por el oficio."*
   - Entregamos: identidad del evento · mensaje y comunicación · puntos de contacto · experiencia digital.
 - Frases de marca en el catálogo:
-  - *"SVBLIME va más allá de las luces, pantallas y la producción. Aquí, lo que merece ser recordado, se hace realidad."* (⚠️ versión distinta a la frase de apertura registrada arriba: confirmar cuál es la vigente).
+  - *"SVBLIME va más allá de las luces, pantallas y la producción. Aquí, lo que merece ser recordado, se hace realidad."* (versión antigua: la vigente es la de memoria registrada arriba; corregir el catálogo en su próxima edición).
   - *"Transformamos tus ideas en experiencias visuales que inspiran, conectan e impactan, con un único propósito: hacerlas inolvidables."*
 - Cierre: *"Tu idea, cuidada desde el concepto hasta la experiencia final."*
 - **Contacto oficial:** hola@svblime.cl · www.svblime.cl · Instagram @svblime.cl
