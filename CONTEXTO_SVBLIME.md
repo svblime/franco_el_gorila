@@ -1,0 +1,250 @@
+# Contexto de trabajo: SVBLIME
+*Resumen de memoria al 01-10-2026. [Certeza] = dicho explícitamente en conversaciones anteriores. [Inferencia] = deducido, por confirmar.*
+
+---
+
+## 1. Sobre mí
+
+- **Nombre:** no lo tengo registrado.
+- **Rol en la agencia:** no lo tengo registrado con certeza.
+  - [Inferencia] Eres uno de los tres socios fundadores (Jaime, Luis o Elvis). Por el tipo de trabajo que haces conmigo (concepto creativo, copy de marca, propuestas, dirección del proyecto Franco el Gorila) podrías ser Jaime, que lleva creatividad, arte y contenido visual, pero no está confirmado.
+- **Idioma:** español de Chile.
+- **Forma de trabajar [Certeza]:**
+  - Construyes sobre bases ya definidas: los documentos de marca son la base de todo y no quieres re-explicar identidad, posicionamiento ni valores en cada conversación.
+  - Trabajas por etapas, definiendo una por una (ej. las 4 etapas de BACK TO JUNGLE).
+  - Guardas bajadas en archivos .md para retomar en otros chats.
+  - Los modelos financieros se alimentan de forma incremental, con correcciones en tiempo real y escenarios con nombre (A/B/C/D) para presentarlos a los socios.
+  - Analizas los proyectos en cuatro dimensiones a la vez: Creativa, Técnica, Producción y Contractual.
+- **Preferencias de comunicación [Certeza]:**
+  - Tono claro, cercano y profesional; sin lenguaje de marketing inflado o vacío.
+  - Entregables prácticos y accionables, directamente usables en producción.
+  - Documentos profesionales con texto justificado y aptos para móvil.
+  - En el proyecto Franco el Gorila: usar la skill de propuestas solo cuando la pidas explícitamente.
+
+---
+
+## 2. Sobre SVBLIME
+
+**Qué es [Certeza]**
+- Agencia premium de producción creativa y experiencias visuales, enfocada en experiencias en vivo, con base en Chile.
+- Tipos de proyecto: eventos corporativos, festivales, matrimonios, lanzamientos, producción audiovisual, escenografía/instalaciones escénicas y conciertos.
+- Estructura de *branded house* (monolítica): todo vive bajo el nombre SVBLIME, sin submarcas.
+- Comercialmente vende **Producción Creativa Integral de Experiencias**, no servicios sueltos.
+- Etapa: fundación de marca temprana.
+- Ambición: convertirse en referente chileno con proyección latinoamericana.
+
+**Propuesta de valor [Certeza]**
+- Cerrar la brecha entre lo que el cliente imagina y lo que el público vive, para que las buenas ideas no se pierdan entre la imaginación y la ejecución.
+- Premium: calidad por sobre escala; la selectividad es una virtud y declinar proyectos desalineados es coherente con la marca.
+
+**Frases de marca aprobadas [Certeza]**
+- Apertura: *"SVBLIME va más allá de las luces, pantallas y la producción. Aquí, las ideas que merecen ser recordadas se hacen realidad."*
+- Frase elegida: *"Transformamos tus ideas en experiencias visuales que inspiran, conectan e impactan, con un único propósito: hacerlas inolvidables."*
+
+**Los 4 servicios [Certeza]** (el cliente puede elegir uno, combinarlos o dejarlo todo en manos de SVBLIME)
+1. **Dirección Creativa**: concepto, narrativa, dirección de arte y el sentido del proyecto; una intención se vuelve visión ejecutable.
+2. **Experiencias Visuales**: luz, pantallas, contenido, motion, programación, previsualización y operación en vivo.
+3. **Producción de Eventos**: planificación, coordinación, gestión de proveedores y ejecución en terreno.
+4. **Branding de Eventos**: identidad, mensaje, sistema visual y puntos de contacto coherentes antes, durante y después.
+
+**Equipo [Certeza]** — tres socios fundadores
+- **Jaime**: creatividad, arte y contenido visual (en Cordillera: rigging y compra de hardware).
+- **Luis**: producción, gestión y ejecución en terreno (en Cordillera: equipo de producción).
+- **Elvis**: iluminación, tecnología e integración visual (en Cordillera: telas/fabricación e infraestructura digital).
+
+**Colaboradores externos [Certeza]**
+- **Roger Mendoza** (Agencia Tu Primera Opción SpA): facturación, porque SVBLIME aún no puede facturar directamente.
+- **Cristóbal**: especialista técnico de montaje.
+- [Inferencia] El tamaño del equipo estable son los 3 socios más externos por proyecto.
+
+---
+
+## 3. Clientes y proyectos
+
+### Proyecto Cordillera — Los Huasos de Algarrobal [Certeza]
+- Instalación escénica para el concierto de 60 años de Los Huasos de Algarrobal, Teatro Oriente, Santiago, **10 de septiembre de 2026**.
+- Nombre en la propuesta: *"La cordillera en escena"*.
+- Concepto: superficie textil suspendida de doble capa, 18 × 15 m (~540 m²), que evoca siluetas andinas mediante alturas variables. Funciona a la vez como escenografía, volumen arquitectónico y superficie lumínica.
+- Paleta: tela translúcida azul/blanca, rayos escénicos azules, barra LED de base, músicos en primer plano.
+- Specs: voile italiano ~65 g/m² (estimado), peso estimado ~35 kg, 9 puntos dobles en 2 líneas de rigging (profundidades ~7,0 m y ~5,5 m), cable de acero 1,0–1,2 mm con terminales prensados, puntos R1–R4 y A1–A5.
+- Contratante: **CORYAN SERVICIOS PROFESIONALES SpA** (Cristian O'Ryan). Contacto de producción del cliente: **Pablo**. SVBLIME siempre es LA PRESTADORA.
+- Contrato: versiones v1, v2 y v4; se enviaron a Pablo 9 ajustes de cláusulas.
+- Propiedad intelectual: el diseño es de SVBLIME de forma permanente, con licencia de un año al contratante, separado de la propiedad física de las telas. SVBLIME conserva derechos de foto/video para portafolio.
+- Estado (al 12-09-2026): evento realizado; liquidación financiera en curso con escenarios A–D entregados en HTML.
+
+### BACK TO JUNGLE — Franco el Gorila [Certeza]
+- Primer show en solitario de Franco el Gorila en el **Santander Arena** (ex Movistar Arena), **julio 2027**, aforo **15.000** (antes se usaba 17.000).
+- Objetivo: desarrollar el concepto creativo y todo el viaje del show para proponerlo a la productora que hará el concierto. Idea desarrollada en conjunto.
+- Nombre: BACK TO JUNGLE (antes "Back to the Jungle"). En piezas solo va "JULIO 2027 / SANTANDER ARENA".
+- Existe una propuesta de escenario que se conserva como base; presupuesto acotado y aún sin monto; todo debe ser realizable.
+- El "regreso" es simbólico (reencuentro con su historia, su público y su energía), sin relato de ausencia o retiro.
+- Eje narrativo: de "despertar" a **"convocatoria"**: la jungla nunca estuvo dormida, es Franco quien llama a su gente. Texto base acordado el 28-09-2026.
+- Idea en una frase: *«No estamos decorando un concierto como una jungla. Estamos construyendo una historia en la que 15.000 personas responden a un llamado, cruzan un portal y vuelven con Franco el Gorila a su territorio.»*
+- Arco de 7 pasos: La Señal, El Llamado, El Portal, El Viaje, La Revelación, El Dominio, La Coronación.
+- **Cuatro etapas:**
+  - **Antes (El Llamado):** señales previas sin mostrar a Franco (interferencias, rugidos, percusión, hojas, sombras), tres microteasers de 10–15 s; preventa como "Apertura del Portal" con entrada = **Pase a la Jungla**; piezas de "Preparación del Viaje". Idea propia: un camión que recorre la ciudad como si llevara un gorila enjaulado.
+  - **La llegada (El Cruce):** transformación del recinto por percepción, no por saturación (sonido de jungla, humo puntual, luz focal, pantallas, performers localizados, señalética narrativa; sin vegetación física en pasillos).
+  - **El show (La Tropa):** I La Revelación, II El Dominio (con el ritual *Las Huellas de la Jungla*, 60–90 s), III Banda, IV La Coronación (luces de teléfonos, gorila completamente iluminado). Cierre: *«El llamado fue escuchado. La tropa respondió. El rey fue coronado. Bienvenidos a la jungla.»*
+  - **Después (El Rastro):** aftermovie (parte editada en vivo y proyectada al cierre), créditos, merch.
+- Orden final de hitos (01-10-2026): está en la planilla de Google Drive "BACK TO JUNGLE - FRANCO EL GORILA", el doc `Back_to_the_Jungle_Hitos_Campana.md` y el artifact "Back to the Jungle · Checklist".
+- Dress code del público: exploradores de selva (gorros de explorador, verdes, ropa táctica beige), dividiendo al público en **cazadores y presas** según las referencias "Dress code Sombra y Oro".
+- Caja influencer: tarjeta, polera, jockey, botella, pulsera, placa militar, lanyard, sticker.
+- Merch de venta: polera, jockey, botella, pulsera, lanyard, sticker, polerón, bucket hat, lentes, placa militar.
+- Aún sin aprobar: tráiler, gorila inflable de 8–10 m y 6–10 performers.
+
+### KWYK — "Sale de la pantalla"
+- [Certeza] Propuesta anterior que sirve de referencia de formato para Claude Design; su símbolo fue una caja fuerte y su atmósfera, un camino entre bosques.
+- [Inferencia] Fue una develación o lanzamiento de un auto ("Primero no hay auto, hay una caja fuerte").
+
+### Prospección comercial [Certeza]
+- Prospección B2B de empresas/oficinas para fiestas de fin de año y eventos corporativos del año.
+- Zonas priorizadas: Vitacura, Las Condes, Providencia y sector Enea (Pudahuel).
+
+---
+
+## 4. Identidad y estilo
+
+**Tono de marca [Certeza]**
+- Claro, cercano, profesional. Primera persona plural ("diseñamos", "proponemos").
+- Frases cortas, sin adjetivos vacíos ("increíble", "único").
+- Cada frase explica qué produce el impacto. Contar la experiencia del público, no vender features.
+- Nunca empezar una frase de marca con una negación (ej. "No vendemos…").
+- No usar la palabra **"pilares"** para los servicios.
+
+**Sistema visual [Certeza]**
+- Tipografías: **Borscha** (titulares), **Hanken Grotesk** (texto), **JetBrains Mono** (eyebrows).
+- Barra de espectro **azul · amarillo · morado**; eyebrows tipo "01 · LA IDEA"; pies en columnas.
+- Fondo negro; lienzo de 816 px de ancho centrado (en móvil, ancho completo).
+- Imágenes fotorrealistas, cinematográficas, oscuras, con luz de evento. La imagen siempre pesa más que el texto.
+- Los highlights de Instagram deben mantener la estética de la web.
+
+**Moodboard [Certeza]**
+- Muestra de dónde tomamos las referencias para lograr el proyecto: trastienda, técnicas y oficio a la escala real del proyecto.
+- Nunca una imagen parecida al resultado; sin marcas ni programas reales; sin metáforas lejanas.
+
+**Referencias concretas:** no tengo registradas marcas, artistas o agencias que admires o uses como referente.
+
+---
+
+## 5. Procesos y formatos
+
+**Propuestas a clientes [Certeza]**
+- Se construyen visualmente en **Claude Design** y se publican como **página web protegida** en `svblime.cl/p-[cliente]/` (no PDF ni PPTX como formato nativo).
+- Protección: contraseña, clic derecho bloqueado, aviso de captura de pantalla, pantalla negra al cambiar de ventana.
+- El PDF es solo la exportación de esa página.
+- Imágenes y videos se generan con IA.
+- Skill propia: **"propuesta"** (antes "svblime-formato-propuesta").
+
+**Flujo de la skill [Certeza]**
+1. Adjuntas un documento con la idea (lluvia de ideas, notas, PDF).
+2. Solo se pregunta lo que falte de una lista fija de **14 preguntas** (objetivo, mensaje, público, recuerdo, momento de impacto, hitos fijos, tono, símbolo, atmósfera, moodboard, técnicas, boceto 1, boceto 2, 3 momentos del diseño final), con tarjetas de opción múltiple por bloque.
+3. Se entregan siempre **4 archivos**:
+   - `[Proyecto]_1_Bajada.md`: copy de las 7 páginas para revisar y aprobar, con "Por completar".
+   - `[Proyecto]_2_Bajada_Tecnica_Claude_Design.md`: pauta de 7 puntos (datos base, la idea, moodboard, bocetos, diseño final, video final, variables del formato).
+   - `[Proyecto]_3_Lista_Assets.md`: assets a crear, frames de trabajo y planos del video final.
+   - `[Proyecto]_4_Prompts_IA.md`: prompts en inglés listos para copiar, con biblia visual (excepto moodboard).
+
+**Estructura de 7 páginas [Certeza]**
+01 Portada · 02 La idea · 03 Moodboard · 04 Boceto 1 · 05 Boceto 2 · 06 Diseño final (inicio, transición, revelación) · 07 Video.
+
+**Assets fijos por propuesta [Certeza]** (8 archivos)
+- `moodboard-1.jpg`, `moodboard-2.jpg`: 4:3, ≥ 1632×1224
+- `boceto-1.mp4`, `boceto-2.mp4`: 16:9, ~6 s, loop, sin audio
+- `final-1.jpg`, `final-2.jpg`, `final-3.jpg`: 16:9, ≥ 1632×918 (la portada usa una recortada en vertical, por defecto `final-3`)
+- `video-final.mp4`: 16:9, 60–70 s, menos de 10 MB (HandBrake RF 26)
+
+**Otros formatos [Certeza]**
+- Liquidaciones y escenarios financieros: HTML compartible (Drive o hosting).
+- Documentos de negociación: imitan el formato del contrato recibido, texto justificado, sin razonamiento interno.
+- Iluminación: cue sheets en DOCX horizontal con desglose escena por escena; programación de consola.
+- Highlights de Instagram: PNG 1080 × 1920 px (Servicios, Equipo, Contacto), hechos en Claude Design.
+
+[Inferencia] La palabra "bajada" la usas en dos sentidos: el documento de copy/concepto de un proyecto, y la exportación (PDF) de una página web.
+
+---
+
+## 6. Stack técnico
+
+**[Certeza]**
+- **Claude Design**: propuestas visuales y assets gráficos.
+- **Generadores de imagen y video con IA** (image-to-video a partir de frames). No tengo registrado cuáles usan específicamente.
+- **HandBrake**: compresión de video.
+- **Google Drive**: planillas y distribución de documentos.
+- **Web propia svblime.cl** con páginas protegidas por cliente.
+- **Generación de documentos**: librería Node.js `docx`; conversión a PDF con LibreOffice (soffice) en headless.
+- **Artifacts de Claude**: checklists y documentos compartibles.
+- **Equipamiento de iluminación (vocabulario en uso)**: Paleta LED, Spot Eastman, Beam, Wash VLTG, Fresnel 1KW, Elipsoidal 25/50°, Barra LED de piso, seguidor, cue sheet, partitura de iluminación.
+- Técnicas: luz, pantallas, videomapping, escenografía física, telas, láser y humo, rigging.
+
+**No sé:** CMS o plataforma de la web, consola de iluminación, software de previsualización, herramientas de motion/edición, herramientas de gestión.
+
+---
+
+## 7. Decisiones y aprendizajes
+
+**Marca y copy [Certeza]**
+- No usar "pilares"; no abrir frases con negación; sin adjetivos vacíos.
+- Vendemos producción creativa integral, no servicios sueltos.
+
+**Propuestas [Certeza]**
+- Web protegida como formato nativo; PDF solo como exportación.
+- Moodboard nunca parecido al resultado.
+
+**Contratos y finanzas [Certeza]**
+- SVBLIME siempre es LA PRESTADORA.
+- La propiedad intelectual del diseño se separa de la propiedad física de los materiales; licencias de uso con plazo.
+- Reembolso primero: los gastos personales previos de los socios se reembolsan antes de cualquier reparto.
+- Comunicación a la contraparte: directa, solo el texto de la cláusula propuesta, sin exponer razonamiento interno.
+- Nunca asumir datos técnicos no confirmados como definitivos (pesos, resistencias, rigging del recinto).
+
+**SEO [Certeza]**
+- Cada página ataca un único keyword principal para evitar canibalización.
+- Análisis de 1.087 keywords transaccionales en 5 grupos: "productora 360", "eventos corporativos", "audiovisual eventos", "branding evento", "creatividad en eventos".
+- 5 páginas nuevas: `/servicios/agencia-360` (principal), `/servicios/eventos-corporativos`, `/servicios/experiencias-visuales`, `/servicios/branding-eventos`, `/servicios/direccion-creativa`.
+- Portafolio filtrado por los 4 servicios; blog con contenido informativo.
+- Documento: `SVBLIME_ARQUITECTURA_WEB_FINAL.md` (4 de agosto 2026).
+
+**Correcciones en Franco el Gorila [Certeza]**
+- BACK TO JUNGLE (no "Back to the Jungle"); 15.000 (no 17.000); eje "convocatoria" (no "despertar").
+
+---
+
+## 8. Pendientes registrados
+*Pueden estar resueltos desde que se anotaron.*
+
+**Franco el Gorila**
+- Definir el portal láser (truss con láser hacia abajo que con humo forma una muralla digital).
+- Imagen del Pase a la Jungla (preventa).
+- Aprobar o descartar: tráiler, gorila inflable 8–10 m, 6–10 performers.
+- Monto del presupuesto.
+- Imagen corporativa del proyecto y piezas visuales.
+- Desarrollar el dress code cazadores/presas como hito.
+
+**Proyecto Cordillera**
+- Confirmar costos de transporte abiertos (Uber de Jaime ida y vuelta, Uber post show).
+- Cerrar la liquidación financiera.
+- Informe documental final del proyecto (no un manual de reproducción).
+- Puntos contractuales que estaban abiertos: exención de IVA, plazo del saldo, cambios de alcance, cancelación/postergación, delimitación de responsabilidad.
+
+**Web y marca**
+- Implementar las fases SEO (Fase 1: agencia-360 y eventos-corporativos).
+- Mejorar jerarquía H1/H2/H3.
+- Highlights de Instagram (Servicios, Equipo, Contacto).
+
+**Comercial**
+- Prospección de empresas para eventos de fin de año.
+
+---
+
+## Información que me falta para conocerlos mejor
+
+1. Tu nombre y tu rol específico dentro de la agencia.
+2. Ciudad base, año de fundación y si ya tienen razón social o cuándo podrán facturar directamente.
+3. Equipo extendido estable (colaboradores frecuentes, proveedores de confianza).
+4. Clientes pasados además de Cordillera y KWYK, y resultados de la prospección.
+5. Rangos de precio o tamaño típico de proyecto, y cómo cotizan.
+6. Referentes visuales o agencias que admiran (y las que no).
+7. Herramientas concretas: generadores de IA, software de motion/edición, consola de iluminación, previsualización, CMS de la web.
+8. Redes sociales activas y estrategia de contenido.
+9. Público objetivo prioritario (corporativo, artistas/productoras, matrimonios) y en qué orden.
+10. Estado actual de los pendientes listados arriba.
