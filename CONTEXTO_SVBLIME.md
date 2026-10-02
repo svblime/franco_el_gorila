@@ -187,7 +187,7 @@
 - Bloque de logos *"SVBLIME presenta · SVBLIME Fest"* · *"Marcas, corporaciones y artistas que han confiado."* (en tres "días"):
   - Marcas: Johnnie Walker Blue Label, Caja Los Andes, Carolina Herrera 212, Muni. de Vitacura, Muni. de Pudahuel, Muni. de Pedro Aguirre Cerda, IP Chile, Muno BX, Axon Pharma, Breast Cancer.
   - Festivales: Festival de Viña, Tecate Pa'l Norte, Coca Cola Flow Fest, Ultra Festival, Huaso de Olmué, Festival La Pampilla, Crush Power Music, Rock Out, Knock Fest.
-  - Artistas: Carín León, Myriam Hernández, The Wailers, Nanpa Básico, Polimá Westcoast, Zúmbale Primo, La Combo Tortuga, Pablito Pesadilla, Alanis Lagos, Pablo Chill-E, Lara Project, Jere Klein, Gino Mella, Harry Nach, Julianno Sosa, Jordan 23, Kidd Tetón, Ithan NY, Garras de Amor, Shamanes Crew, King Savage.
+  - Artistas: Carin León, Myriam Hernández, The Wailers, Nanpa Básico, Polimá Westcoast, Zúmbale Primo, La Combo Tortuga, Pablito Pesadilla, Alanis Lagos, Pablo Chillee, Lara Project, Jere Klein, Gino Mella, Harry Nach, Julianno Sosa, Jordan 23, Kidd Tetón, Ithan NY, Garras de Amor, Shamanes Crew, King Savage.
   - Nota: *"Trayectoria acumulada de los socios · participación por proyecto (visuales · iluminación · producción · contenido)"*.
 - Contacto: formulario (nombre, email, "Cuéntanos la idea": objetivo, público, lugar, fecha) que llega a **svblime.lab@gmail.com**; respuesta: *"Gracias por escribirnos. Revisamos la idea general y te proponemos una bajada clara y realista."*
 - Cierre: *"SVBLIME existe para que ninguna gran idea se pierda."* · *"Chile · 2026"*.
