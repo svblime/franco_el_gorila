@@ -111,9 +111,27 @@
 - Nunca empezar una frase de marca con una negación (ej. "No vendemos…").
 - No usar la palabra **"pilares"** para los servicios.
 
-**Sistema visual [Certeza]**
-- Tipografías: **Borscha** (titulares), **Hanken Grotesk** (texto), **JetBrains Mono** (eyebrows).
-- Barra de espectro **azul · amarillo · morado**; eyebrows tipo "01 · LA IDEA"; pies en columnas.
+**Brandbook oficial · Edición 2026 [Certeza — fuente: `Brandbook_conciso_completo.pdf`]**
+- **Logotipo:** SVBLIME es una marca de logotipo. La identidad se sostiene en un solo recurso: la **E construida con tres barras de color de igual peso** (azul · amarillo · púrpura). Lockup principal: letras blancas sobre campo negro. Versiones: positivo, monocromático y sobre color.
+  - Área de resguardo: la altura de una barra alrededor del logotipo; ningún elemento puede invadirla.
+  - Tamaño mínimo impreso: 22 mm de ancho (por debajo, la E pierde definición).
+- **Color · tres colores sin jerarquía:** ninguno se promueve sobre los otros; cuando los acentos rotan, se recorren los tres.
+  - Azul `#4EA9FF` · RGB 78·169·255 · CMYK 62·26·0·0
+  - Amarillo `#FFCD59` · RGB 255·205·89 · CMYK 0·18·65·0
+  - Púrpura `#8F00FF` · RGB 143·0·255 · CMYK 44·100·0·0
+  - Bases neutras: Negro `#141414` (campo principal de marca) y Hueso `#F4F1EA` (fondo de página).
+- **Tipografía · dos familias:**
+  - Primaria/display: **Borscha Semi Bold** (el logotipo está construido con ella). Titulares, cifras y frases fuerza.
+  - Secundaria/texto: **Inter** (Regular, Medium, SemiBold, Bold). Cuerpo de texto.
+  - Jerarquía: titular en display · etiqueta en Inter caps con tracking 0.32 em · cuerpo en Inter Regular.
+- **Voz escrita:** copy escueto, declarativo, técnico-editorial. Sin exclamación, sin hipérbole. El punto medio **·** es el glifo conectivo de la marca.
+- **Elemento gráfico · barras:** tres rectángulos sólidos azul → amarillo → púrpura, de igual tamaño y separación mínima. Es el único recurso decorativo de la marca: acento, divisor, marca de esquina y raya de botón.
+  - Reglas: fondos planos, sin degradados ni texturas; esquinas rectas, sin sombras; orden fijo azul · amarillo · púrpura.
+
+**Sistema visual de propuestas y web (memoria previa) [Certeza]**
+- Tipografías usadas en propuestas: **Borscha** (titulares), **Hanken Grotesk** (texto), **JetBrains Mono** (eyebrows).
+  - ⚠️ Por confirmar: el brandbook 2026 define **Inter** como tipografía de texto. Falta definir si Hanken Grotesk y JetBrains Mono siguen vigentes en propuestas o se reemplazan por Inter.
+- Barra de espectro **azul · amarillo · púrpura**; eyebrows tipo "01 · LA IDEA"; pies en columnas.
 - Fondo negro; lienzo de 816 px de ancho centrado (en móvil, ancho completo).
 - Imágenes fotorrealistas, cinematográficas, oscuras, con luz de evento. La imagen siempre pesa más que el texto.
 - Los highlights de Instagram deben mantener la estética de la web.
