@@ -47,6 +47,24 @@
 3. **Producción de Eventos**: planificación, coordinación, gestión de proveedores y ejecución en terreno.
 4. **Branding de Eventos**: identidad, mensaje, sistema visual y puntos de contacto coherentes antes, durante y después.
 
+**Catálogo de servicios oficial [Certeza — fuente: `Catalogo_servicios_SVBLIME.pdf`, 9 láminas 16:9]**
+- Portada: *"Para que ninguna idea se pierda en el camino."*
+- Quiénes somos: *"SVBLIME es una agencia creativa de experiencias en vivo que integra cuatro servicios bajo una dirección."*
+- Servicios: *"Cuatro formas de trabajar, una sola misión: hacer que tu idea cobre vida. Elige uno, combínalos o déjalo todo en nuestras manos."*
+- **01 · Dirección Creativa**: concepto, narrativa, lenguaje visual y el sentido del proyecto. *"Donde una intención se vuelve una visión clara y ejecutable, respaldada en cada decisión."*
+  - Entregamos: concepto y narrativa · dirección de arte · lenguaje visual del proyecto · guion de show y experiencia.
+- **02 · Experiencias Visuales**: luz, pantallas, contenido y motion, programados y operados en vivo. *"La tecnología no reemplaza la idea: la potencia, con previsualización y control en cada momento."*
+  - Entregamos: diseño de iluminación · contenido para pantallas y motion · previsualización · programación y operación en vivo.
+- **03 · Producción de Eventos**: planificación, coordinación, gestión de proveedores y ejecución en terreno. *"El orden protege la creatividad: cuidamos cada detalle para que la idea llegue intacta al público."*
+  - Entregamos: planificación y presupuesto · coordinación técnica · gestión de proveedores · ejecución en terreno.
+- **04 · Branding de Eventos**: identidad, mensaje, sistema visual y puntos de contacto, coherentes antes, durante y después. *"El detalle es respeto por el público, por el cliente y por el oficio."*
+  - Entregamos: identidad del evento · mensaje y comunicación · puntos de contacto · experiencia digital.
+- Frases de marca en el catálogo:
+  - *"SVBLIME va más allá de las luces, pantallas y la producción. Aquí, lo que merece ser recordado, se hace realidad."* (⚠️ versión distinta a la frase de apertura registrada arriba: confirmar cuál es la vigente).
+  - *"Transformamos tus ideas en experiencias visuales que inspiran, conectan e impactan, con un único propósito: hacerlas inolvidables."*
+- Cierre: *"Tu idea, cuidada desde el concepto hasta la experiencia final."*
+- **Contacto oficial:** hola@svblime.cl · www.svblime.cl · Instagram @svblime.cl
+
 **Equipo [Certeza]** — tres socios fundadores
 - **Jaime**: creatividad, arte y contenido visual (en Cordillera: rigging y compra de hardware).
 - **Luis**: producción, gestión y ejecución en terreno (en Cordillera: equipo de producción).
@@ -263,6 +281,6 @@
 5. Rangos de precio o tamaño típico de proyecto, y cómo cotizan.
 6. Referentes visuales o agencias que admiran (y las que no).
 7. Herramientas concretas: generadores de IA, software de motion/edición, consola de iluminación, previsualización, CMS de la web.
-8. Redes sociales activas y estrategia de contenido.
+8. Redes sociales: Instagram @svblime.cl confirmado; faltan otras redes activas y estrategia de contenido.
 9. Público objetivo prioritario (corporativo, artistas/productoras, matrimonios) y en qué orden.
 10. Estado actual de los pendientes listados arriba.
