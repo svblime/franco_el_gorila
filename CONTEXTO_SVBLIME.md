@@ -191,7 +191,8 @@
   - Nota: *"Trayectoria acumulada de los socios · participación por proyecto (visuales · iluminación · producción · contenido)"*.
 - Contacto: formulario (nombre, email, "Cuéntanos la idea": objetivo, público, lugar, fecha) que llega a **svblime.lab@gmail.com**; respuesta: *"Gracias por escribirnos. Revisamos la idea general y te proponemos una bajada clara y realista."*
 - Cierre: *"SVBLIME existe para que ninguna gran idea se pierda."* · *"Chile · 2026"*.
-- ⚠️ Inconsistencias detectadas en la web:
+- **Decisiones del 12-11-2026:** la web se mantiene en código (repo `svblime/svblime-web`, ya no en Claude Design) y se publica por FTP. El bloque de cifras se elimina de la web; el máximo real de asistentes en un show es **65.000** (la ficha "+100.000 personas" de La Pampilla era un error).
+- ⚠️ Inconsistencias detectadas en la web (corregidas en `svblime-web`, pendiente de publicar):
   1. Usa la frase antigua: *"Va más allá de las luces, pantallas y la producción. Lo que merece ser recordado, lo hacemos realidad."*
   2. Usa "pilares" ("Cuatro pilares · una sola dirección", "Pilares bajo una dirección") y "Productora 360", ambas en conflicto con las reglas de marca.
   3. La cifra "65K máx. asistentes" choca con "+100.000 personas" en Festival La Pampilla.
