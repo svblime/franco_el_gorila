@@ -1,4 +1,4 @@
-# Dossier de ventas SVBLIME · Empresas
+# Dossier SVBLIME v1 · Empresas
 
 *Bajada del dossier comercial. Versión 1 · 13-11-2026.*
 
