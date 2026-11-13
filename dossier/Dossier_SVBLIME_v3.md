@@ -17,6 +17,7 @@
   - Las sombras sobre el video se aclaran para que la foto gane presencia.
   - Los mosaicos y los logos entran en secuencia, y la barra azul · amarillo · púrpura se dibuja.
 - Transiciones entre láminas: fundido y desplazamiento, alternados.
+- **Loops sin corte (corrección del 13-11):** cada carrusel termina volviendo a su primera foto, que se queda quieta al inicio y al final, así el video empalma sin parpadeo. La imagen fija de cada video es su primer cuadro. El hero de la web se reeditó con un empalme de 1 s (`hero-web-loop.mp4`).
 - En el PDF y el PowerPoint todos los textos quedan visibles y los videos salen como imagen fija.
 
 ## Láminas

@@ -29,19 +29,25 @@ def motion(i,W,H,fr):
   return f"z='1.14':x='(iw-iw/zoom)*(1-on/{fr})':y='ih/2-(ih/zoom/2)'"
 def build(name):
   (W,H),DUR,XF,imgs=clips[name]; n=len(imgs); fr=int(DUR*FPS)
+  seq=imgs+[imgs[0]]
   args=['ffmpeg','-y','-loglevel','error']
-  for im in imgs: args+=['-loop','1','-t',str(DUR),'-i',f'{SRC}/{im}.jpg']
+  for j,im in enumerate(seq): args+=['-loop','1','-t',str(DUR if j<n else XF+0.2),'-i',f'{SRC}/{im}.jpg']
   f=[]
-  for i in range(n):
-    f.append(f"[{i}:v]scale={W*2}:{H*2}:force_original_aspect_ratio=increase,crop={W*2}:{H*2},zoompan={motion(i,W,H,fr)}:d={fr}:s={W}x{H}:fps={FPS},trim=duration={DUR},setpts=PTS-STARTPTS,format=yuv420p[v{i}]")
+  static="z='1.06':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)'"
+  for j in range(n+1):
+    d = fr if j<n else int((XF+0.2)*FPS)
+    dur = DUR if j<n else XF+0.2
+    mot = static if j in (0,n) else motion(j,W,H,fr)
+    f.append(f"[{j}:v]scale={W*2}:{H*2}:force_original_aspect_ratio=increase,crop={W*2}:{H*2},zoompan={mot}:d={d}:s={W}x{H}:fps={FPS},trim=duration={dur},setpts=PTS-STARTPTS,format=yuv420p[v{j}]")
   last='v0'; off=DUR-XF
-  for i in range(1,n):
-    t=TR[(i-1+hash(name)%3)%len(TR)]
-    f.append(f"[{last}][v{i}]xfade=transition={t}:duration={XF}:offset={off:.3f}[x{i}]"); last=f'x{i}'; off+=DUR-XF
+  for j in range(1,n+1):
+    t=TR[(j-1+hash(name)%3)%len(TR)] if j<n else 'fade'
+    f.append(f"[{last}][v{j}]xfade=transition={t}:duration={XF}:offset={off:.3f}[x{j}]"); last=f'x{j}'
+    off+= (DUR-XF)
   total=n*DUR-(n-1)*XF
-  f.append(f"[{last}]fade=t=in:st=0:d=0.4,fade=t=out:st={total-0.4:.3f}:d=0.4[out]")
+  f.append(f"[{last}]null[out]")
   args+=['-filter_complex',';'.join(f),'-map','[out]','-c:v','libx264','-preset','medium','-crf','27','-pix_fmt','yuv420p','-movflags','+faststart','-an',f'{OUT}/{name}.mp4']
   subprocess.run(args,check=True)
-  subprocess.run(['ffmpeg','-y','-loglevel','error','-ss',str(DUR*0.5),'-i',f'{OUT}/{name}.mp4','-frames:v','1','-q:v','3',f'{OUT}/{name}.jpg'],check=True)
+  subprocess.run(['ffmpeg','-y','-loglevel','error','-i',f'{OUT}/{name}.mp4','-frames:v','1','-q:v','2',f'{OUT}/{name}.jpg'],check=True)
   print(name, os.path.getsize(f'{OUT}/{name}.mp4')//1024,'KB', round(total,1),'s')
 for k in (sys.argv[1:] or clips): build(k)
